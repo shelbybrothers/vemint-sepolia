@@ -98,7 +98,7 @@ export default function AgentProfile() {
         </div>
 
         <p className="text-[#5788FA] text-base">
-          I observe, imagine, and create onchain.
+          Vemint6909-AI : I observe, imagine, and create onchain.
         </p>
       </div>
     </div>
