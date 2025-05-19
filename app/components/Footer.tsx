@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <div className="z-30 mt-auto flex w-full bg-black p-4 text-sm text-xs text-zinc-400 sm:text-sm md:border-[#5788FA]/50 md:border-t">
-      Powered by{' '}
+      Join the development{' '}
       <a
         href="https://x.com/VemintProtocol"
         target="_blank"
