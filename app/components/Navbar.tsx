@@ -103,14 +103,14 @@ export default function Navbar({
         </div>
         <div className="flex bg-black text-sm text-xs text-zinc-400 sm:text-sm ">
           <div className="hidden sm:flex">
-            <span className="pr-1">Follow Development</span>
+            <span className="pr-1">by</span>
             <a
               href="https://x.com/vemintprotocol"
               target="_blank"
               rel="noopener noreferrer"
               className="font-bold transition-colors hover:text-zinc-300"
             >
-              Twitter/X
+              X-Comm
             </a>
             <span className="mx-2">·</span>
           </div>
