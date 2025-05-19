@@ -91,7 +91,7 @@ export default function Navbar({
         `}
             />
             <span className="text-xs text-zinc-50 sm:text-sm">
-              Live on Base Sepolia
+              Live on ERC6909-protocol test
             </span>
           </div>
           <div
